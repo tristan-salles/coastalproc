@@ -95,6 +95,6 @@
     </creep>
 
     <!-- Output folder path -->
-    <outfolder>output</outfolder>
+    <outfolder>outputByron</outfolder>
 
 </badlands>

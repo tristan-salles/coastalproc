@@ -95,6 +95,6 @@
     </creep>
 
     <!-- Output folder path -->
-    <outfolder>douglasoutput</outfolder>
+    <outfolder>outputDouglas</outfolder>
 
 </badlands>

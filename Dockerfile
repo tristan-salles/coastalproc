@@ -33,6 +33,8 @@ COPY UoS /workspace
 # setup space for working in
 VOLUME /workspace/volume
 
+RUN pip install cmocean
+
 # launch notebook
 WORKDIR /workspace
 EXPOSE 8888

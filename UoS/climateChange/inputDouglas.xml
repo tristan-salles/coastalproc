@@ -39,18 +39,18 @@
         <!-- Precipitation definition -->
         <rain>
             <!-- Rain start time [a] -->
-            <rstart>2016.</rstart>
+            <rstart>2000.</rstart>
             <!-- Rain end time [a] -->
-            <rend>2116.</rend>
+            <rend>2100.</rend>
             <!-- Precipitation value [m/a] - (optional) -->
             <rval>1.5</rval>
         </rain>
         <!-- Precipitation definition -->
         <rain>
             <!-- Rain start time [a] -->
-            <rstart>2116.</rstart>
+            <rstart>2100.</rstart>
             <!-- Rain end time [a] -->
-            <rend>2516.</rend>
+            <rend>2500.</rend>
             <!-- Precipitation value [m/a] - (optional) -->
             <rval>2.5</rval>
         </rain>
